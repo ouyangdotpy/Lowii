@@ -1,0 +1,68 @@
+body{
+   padding: 0;
+   box-sizing: border-box;
+   margin: 0;
+   background: #7159c1;
+   font-family: 'Montserrat';
+}header{
+   text-align: center;
+   margin-top: 30px;
+   color: white;
+   font-size: 35pt;
+   margin-bottom: 40%;
+}.loginBtn{
+   background: white;
+   width: 50%;
+   height: 15%;
+   margin: auto;
+   border-radius: 6px;
+   padding: 2px;
+   margin-top: 5%;
+   cursor: pointer;
+}h1{
+   font-size: 14pt;
+   color: #7159c1;
+   text-align: center;
+}
+.github--{
+   background: white;
+   width: 50%;
+   height: 15%;
+   margin: auto;
+   border-radius: 6px;
+   padding: 2px;
+   margin-top: 10%;
+   cursor: pointer;
+}img{
+   margin-left: 43%;
+}
+#gitLoginText{
+   font-size: 15px;
+}
+.data{
+   width: 70%;
+   height: 150px;
+   background: #7159c1;
+   margin: auto;
+   border-radius: 6px;
+}
+.email{
+   color: #7159c1;
+   text-align: center;
+   width: 80%;
+   margin-left: 9%;
+   height: 25%;
+   margin-bottom: 20px;
+   outline: none;
+   border-radius: 6px;
+   
+}
+.pass{
+   color: #7169c1;
+   text-align: center;
+   width: 80%;
+   height: 25%;
+   margin-left: 9%;
+   border-radius: 6px;
+   outline: none;
+}
